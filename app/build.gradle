@@ -19,17 +19,17 @@ android {
     }
     productFlavors {
         flavor2 {
-            versionName '2.0'
+            versionName '2.1'
             minSdkVersion 22
             targetSdkVersion 22
-            versionCode 2
+            versionCode 3
             applicationId 'com.example.federico.fedextest.F2'
         }
         flavor1 {
             minSdkVersion 22
             targetSdkVersion 22
-            versionCode 1
-            versionName '1.4'
+            versionCode 3
+            versionName '1.5'
             applicationId 'com.example.federico.fedextest.F1'
         }
     }
